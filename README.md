@@ -1,6 +1,6 @@
 # World Countries Data Project
 
-Welcome to my World Countries Data Project for Ognomy 👋🏾
+Welcome to my World Countries Data Project for Ognomy 👋🏾. Project is hosted at: https://incredible-belekoy-5f6927.netlify.app/
 
 This project is written in React while utilizing [Taildwind CSS](https://tailwindcss.com/) and [Fuse.js](https://fusejs.io/) under the hood.
 
